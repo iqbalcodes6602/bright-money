@@ -30,7 +30,7 @@ const initialState = {
       id: 4,
       description: 'House rent',
       category: 'Food & Dining',
-      amount: 35900,
+      amount: 6000,
       date: '2020-01-03',
     },
     {
