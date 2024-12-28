@@ -12,7 +12,7 @@ function BillList() {
       : bills.filter((bill) => bill.category === filterCategory);
 
   return (
-    <div className="card">
+    <div className="card rounded-0">
       <div className="card-header">Bills</div>
       <div className="list-group">
         {filteredBills.map((bill) => (

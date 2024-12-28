@@ -37,7 +37,7 @@ function BillForm() {
   };
 
   return (
-    <div className="card mb-4">
+    <div className="card mb-4 rounded-0">
       <div className="card-header">Add New Bill</div>
       <div className="card-body">
         <div className="mb-3">

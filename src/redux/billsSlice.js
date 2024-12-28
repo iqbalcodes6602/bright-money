@@ -9,7 +9,7 @@ const initialState = {
       id: 1,
       description: 'Dominoes',
       category: 'Food & Dining',
-      amount: 430,
+      amount: 6000,
       date: '2020-01-02',
     },
     {

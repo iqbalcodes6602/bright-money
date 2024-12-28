@@ -33,7 +33,7 @@ function BillDashboard() {
     <div className="row">
       {/* Left Column: Stats & Controls */}
       <div className="col-12 col-md-4 mb-3">
-        <div className="card mb-3">
+        <div className="card mb-3 rounded-0">
           <div className="card-body">
             <h4>Total Billed: <span className="text-primary">{totalBilled}</span></h4>
             <h5>Monthly Budget: <span className="text-success">{monthlyBudget}</span></h5>
